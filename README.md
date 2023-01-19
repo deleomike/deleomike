@@ -13,7 +13,10 @@ My project where I trained a BERT model to play chess and NIM. There is an acade
 ## My Highlighted Archived Projects
 
 - [The Battleship Game Written in Assembly](https://github.com/deleomike/BattleShip-Assembly)
-- 
+- [MultiLayer Perceptron Written in Java from Scratch](https://github.com/deleomike/Perceptron)
+- [Gravity Wave Classification](https://github.com/deleomike/GravWave)
+- [DronePy - Python Drone Interface](https://github.com/deleomike/DronePy)
+- [A Set of Helper Scripts for Ubuntu Installation Setup](https://github.com/deleomike/HelperScripts)
 
 ## My Open Source Contributions
 
