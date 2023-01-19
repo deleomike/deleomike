@@ -17,6 +17,7 @@ My project where I trained a BERT model to play chess and NIM. There is an acade
 - [Gravity Wave Classification](https://github.com/deleomike/GravWave)
 - [DronePy - Python Drone Interface](https://github.com/deleomike/DronePy)
 - [A Set of Helper Scripts for Ubuntu Installation Setup](https://github.com/deleomike/HelperScripts)
+- [General Archived Projects](https://github.com/deleomike/ArchivedProjectsMonoRepo)
 
 ## My Open Source Contributions
 
