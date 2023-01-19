@@ -2,17 +2,18 @@
 
 ## My Favorite Projects
 
-### Sci-Go
+### [Sci-Go](https://github.com/deleomike/sci-go)
 
 A data science project I dabble in written in golang.
 
-### NLP Chess
+### [NLP Chess](https://github.com/deleomike/NLP-Chess)
 
 My project where I trained a BERT model to play chess and NIM. There is an academic paper written for this project through Johns Hopkins University
 
 ## My Highlighted Archived Projects
 
 - [The Battleship Game Written in Assembly](https://github.com/deleomike/BattleShip-Assembly)
+- 
 
 ## My Open Source Contributions
 
