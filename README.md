@@ -24,6 +24,17 @@ My project where I trained a BERT model to play chess and NIM. There is an acade
 - [MMDet3D](https://github.com/open-mmlab/mmdetection3d)
 - [Albumentations](https://github.com/albumentations-team/albumentations)
 
+## My Graduate Classwork 📚
+
+Most of these are going to be private for some time for the sake of not sharing answers. These courses were completed at Johns Hopkins University.
+
+- [Artificial Intelligence EN.605.645](https://github.com/deleomike/EN.605.645)
+- Human Robotics Interaction EN.525.786
+  - [Labs and Classwork](https://github.com/deleomike/EN.525.786)
+  - [Final Project, Pick and Place HRI Loop](https://github.com/deleomike/pick_and_place)
+- [Artificial Intelligence EN.605.645](https://github.com/deleomike/EN.605.645)
+- [Algorithms for Datascience EN.685.621](https://github.com/deleomike/EN.685.621)
+
 # My Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deleomike&show_icons=true&theme=radical)
