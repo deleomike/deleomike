@@ -20,6 +20,7 @@ Most of these are going to be private for some time for the sake of not sharing 
   - [Final Project, "Pick and Place" HRI Loop](https://github.com/deleomike/pick_and_place)
 - [Artificial Intelligence EN.605.645](https://github.com/deleomike/EN.605.645)
 - [Algorithms for Datascience EN.685.621](https://github.com/deleomike/EN.685.621)
+- [Foundations of Software Engineering](https://github.com/deleomike/Clue-Less/tree/main)
 
 ## My Highlighted Archived Projects
 
