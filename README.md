@@ -10,7 +10,7 @@ A data science project I dabble in written in golang.
 
 My project where I trained a BERT model to play chess and NIM. There is an academic paper written for this project through Johns Hopkins University
 
-## My Graduate Classwork 📚
+## Graduate Classwork 📚
 
 Most of these are going to be private for some time for the sake of not sharing answers. These courses were completed at Johns Hopkins University.
 
@@ -21,6 +21,10 @@ Most of these are going to be private for some time for the sake of not sharing 
 - [Artificial Intelligence EN.605.645](https://github.com/deleomike/EN.605.645)
 - [Algorithms for Datascience EN.685.621](https://github.com/deleomike/EN.685.621)
 - [Foundations of Software Engineering](https://github.com/deleomike/Clue-Less/tree/main)
+
+## Undergraduate ClassWork 📚
+
+- [Numerical Analysis](https://github.com/deleomike/Numerical-Analysis)
 
 ## My Highlighted Archived Projects
 
