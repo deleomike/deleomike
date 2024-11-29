@@ -25,6 +25,7 @@ Most of these are going to be private for some time for the sake of not sharing 
 ## Undergraduate ClassWork 📚
 
 - [Numerical Analysis](https://github.com/deleomike/Numerical-Analysis)
+- [Operating Systems](https://github.com/deleomike/Operating-Systems)
 
 ## My Highlighted Archived Projects
 
