@@ -29,7 +29,7 @@ Most of these are going to be private for some time for the sake of not sharing 
 - [Embedded Systems CMPEN.352](https://github.com/deleomike/CMPEN.352)
 - [Microprocessors CMPEN.351](https://github.com/deleomike/CMPEN.351)
   - [The Battleship Game Written in Assembly](https://github.com/deleomike/BattleShip-Assembly)
-- [Signls & Systems EE.352[(https://github.com/deleomike/EE.352)
+- [Signls & Systems EE.352](https://github.com/deleomike/EE.352)
 
 ## My Highlighted Archived Projects
 
