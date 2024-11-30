@@ -27,7 +27,7 @@ Most of these are going to be private for some time for the sake of not sharing 
 - [Numerical Analysis](https://github.com/deleomike/Numerical-Analysis)
 - [Operating Systems](https://github.com/deleomike/Operating-Systems)
 - [Embedded Systems CMPEN.352](https://github.com/deleomike/CMPEN.352)
-- [Microprocessors CMPEN.351(https://github.com/deleomike/CMPEN.351)
+- [Microprocessors CMPEN.351](https://github.com/deleomike/CMPEN.351)
   - [The Battleship Game Written in Assembly](https://github.com/deleomike/BattleShip-Assembly)
 
 ## My Highlighted Archived Projects
